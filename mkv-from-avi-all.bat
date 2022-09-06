@@ -1,0 +1,1 @@
+FORFILES /M *.avi /C "cmd /c call mkv.bat @file"
